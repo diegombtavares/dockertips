@@ -52,11 +52,9 @@
                                     <div class="main-menu">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a href="">Inicio</a></li>
-                                                <li><a href="about.html">Sobre</a></li>
-                                                <li><a href="kubernetes.html">Kubernetes</a></li>
-                                                <li><a href="kubernetes.html">Documentação</a></li>
-                                                <li><a href="contact.html">Criador</a></li>
+                                                <li><a href="/">Inicio</a></li>
+                                                <li><a href="about">Sobre</a></li>
+                                                <li><a href="kubernetes.html">Instruções</a></li>
                                             </ul>
                                         </nav>
                                     </div>
