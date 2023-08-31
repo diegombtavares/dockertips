@@ -3439,6 +3439,22 @@ h3 {
   }
 }
 
+.white-box {
+  background-color: white;
+  padding: 20px; /* Ajuste o valor conforme necessário */
+  border: 1px solid #ccc;
+  border-radius: 10px; /* Adicione bordas arredondadas */
+  margin-bottom: 20px; /* Adicione um espaçamento entre os elementos */
+}
+
+.single_quality {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+.single_quality h3 {
+    margin-top: 0; /* Remove o espaçamento superior padrão do h3 */
+}
+
 /* line 14, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_quality.scss */
 .quality_area .single_quality {
   border: 3px solid rgba(206, 243, 255, 0.2);

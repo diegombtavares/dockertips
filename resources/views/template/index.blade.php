@@ -54,7 +54,7 @@
                                             <ul id="navigation">
                                                 <li><a href="/">Inicio</a></li>
                                                 <li><a href="about">Sobre</a></li>
-                                                <li><a href="kubernetes.html">Instruções</a></li>
+                                                <li><a href="utilizacao">Utilização</a></li>
                                             </ul>
                                         </nav>
                                     </div>
